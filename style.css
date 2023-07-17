@@ -138,7 +138,7 @@
     justify-content: center;
     position: absolute;
     width: 30%;
-    height: 90%;
+    height: 85%;
     left: 60%;
     top: 5%;
     background: #fff;
@@ -185,6 +185,22 @@
     width: 80%;
     height: 60%;
     top: 10%;
+}
+
+.rodapie{
+    display: flex;
+    position: fixed;
+    text-align: center;
+    justify-content: center;
+    left: 0;
+    right: 0;
+    bottom: 10px;
+    font-family: "tahoma";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 19px;
+    text-align: center;
+    color: #000000;
 }
 
 /*responsive design*/
